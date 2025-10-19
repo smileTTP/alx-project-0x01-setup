@@ -10,7 +10,7 @@ export interface UserProps {
     username: string;
     email:    string;
     address:  {
-        street:  string;
+        street: string;
         suite:   string;
         city:    string;
         zipcode: string;
